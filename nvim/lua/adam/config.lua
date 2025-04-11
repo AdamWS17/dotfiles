@@ -18,11 +18,8 @@ vim.opt.splitright = true; --doesnt work??
 
 		--vim.opt.listchars = { space = '·', tab = '>~' }
 		--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-
-
-
-
-
-
+		--
+		--
+		--
+		--
 		--
