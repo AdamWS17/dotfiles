@@ -6,15 +6,18 @@
 #except these files (the dotfiles I care about)
 !.gitignore
 
-#for directories you need to do: !dir/ and !dir/*
+#for directories you need to do: !dir/ and !dir/* AND !dir/**
 !kitty/
 !kitty/*
+!kitty/**
 
 !waybar/
 !waybar/*
+!waybar/**
 
 !hypr/
 !hypr/*
+!hypr/**
 
 !nvim/
 !nvim/*
