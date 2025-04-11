@@ -1,0 +1,12 @@
+2025/03/27-22:07:16.403 5fda Reusing MANIFEST /home/adam/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/03/27-22:07:16.410 5fda Recovering log #17
+2025/03/27-22:07:16.410 5fda Reusing old log /home/adam/.config/discord/Local Storage/leveldb/000017.log 
+2025/03/27-22:12:13.958 5fda Level-0 table #23: started
+2025/03/27-22:12:13.983 5fda Level-0 table #23: 3575497 bytes OK
+2025/03/27-22:12:13.986 5fda Delete type=0 #17
+2025/03/28-00:15:25.963 5fdb Level-0 table #25: started
+2025/03/28-00:15:25.977 5fdb Level-0 table #25: 50935 bytes OK
+2025/03/28-00:15:25.980 5fdb Delete type=0 #22
+2025/03/28-01:28:56.285 5fdb Level-0 table #27: started
+2025/03/28-01:28:56.290 5fdb Level-0 table #27: 40766 bytes OK
+2025/03/28-01:28:56.293 5fdb Delete type=0 #24

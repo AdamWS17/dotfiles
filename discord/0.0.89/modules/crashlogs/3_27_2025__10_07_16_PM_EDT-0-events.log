@@ -1,0 +1,13 @@
+3/27/2025, 10:07:16 PM EDT 0: 
+
+----------------------------------------------
+3/27/2025, 10:07:16 PM EDT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.89"}, modulepath: /home/adam/.config/discord/0.0.89/modules
+3/27/2025, 10:07:16 PM EDT 2: ✅ webContents.created web1 ""
+3/27/2025, 10:07:16 PM EDT 3: ✅ window.created win1 "discord"
+3/27/2025, 10:07:16 PM EDT 4: ✅ webContents.did-finish-load web1
+3/27/2025, 10:07:21 PM EDT 5: ✅ webContents.created web2 ""
+3/27/2025, 10:07:21 PM EDT 6: ✅ window.created win2 "Discord"
+3/27/2025, 10:07:25 PM EDT 7: ✅ webContents.did-finish-load web2
+3/27/2025, 10:07:25 PM EDT 8: window.close win1
+3/27/2025, 10:07:25 PM EDT 9: webContents.destroyed web1
+3/27/2025, 10:07:25 PM EDT 10: window.closed win1
