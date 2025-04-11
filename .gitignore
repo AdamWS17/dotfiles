@@ -1,5 +1,7 @@
 #ignore all files by default
 *
+#ignore subdirectories by default
+**
 
 #except these files (the dotfiles I care about)
 !.gitignore
