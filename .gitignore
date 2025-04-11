@@ -1,7 +1,8 @@
 #ignore all files by default
-./*
+*
 
 #except these files (the dotfiles I care about)
+!.gitignore
 !hypr
 !kitty
 !waybar
