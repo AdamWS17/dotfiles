@@ -8,3 +8,5 @@
 !kitty/
 !waybar/
 !hypr/
+!hypr/* 
+#idk
