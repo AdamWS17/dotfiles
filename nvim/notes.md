@@ -4,5 +4,11 @@
 ** tmux
 ** coc
 ** floaterm
-** dracula (for vim)
+** dracula (for vim) or any other color scheme
 ** nerdtree
+** harpoon
+** treesitter
+** undotree
+** vim-fugitive
+
+** LSP zero
