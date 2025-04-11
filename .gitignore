@@ -9,8 +9,12 @@
 #for directories you need to do: !dir/ and !dir/*
 !kitty/
 !kitty/*
+
 !waybar/
 !waybar/*
+
 !hypr/
-!hypr/* 
-#idk
+!hypr/*
+
+!nvim/
+!nvim/*
