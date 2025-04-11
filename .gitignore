@@ -6,7 +6,9 @@
 #except these files (the dotfiles I care about)
 !.gitignore
 !kitty/
+!kitty/*
 !waybar/
+!waybar/*
 !hypr/
 !hypr/* 
 #idk
