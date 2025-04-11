@@ -1,3 +1,2 @@
-require("adam.remap")
+require("adam.keymaps")
 require("adam.config")
---print("hello from adam")
