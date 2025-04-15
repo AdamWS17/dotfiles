@@ -26,3 +26,7 @@
 !wal
 !wal/*
 !wal/**
+
+!fish
+!fish/*
+!fish/**
