@@ -23,6 +23,6 @@
 !nvim/*
 !nvim/**
 
-!wal/
+!wal
 !wal/*
 !wal/**
