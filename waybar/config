@@ -6,7 +6,6 @@
         "modules-center": ["hyprland/workspaces"],
         "modules-right": ["group/expand","network","battery"],//"bluetooth"
 
-
         "hyprland/workspaces": {
             "format": "{icon}",
             "format-icons": {
@@ -18,14 +17,12 @@
                 "*": [ 1,2,3,4,5 ]
             }
         },
-/*
         "custom/notification": {
             "tooltip": false,
             "format": "",
             "on-click": "swaync-client -t -sw",
             "escape": true
         },
-*/
         "clock": {
             "format": "{:%I:%M %p} ",
             "interval": 1,
