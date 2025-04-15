@@ -22,3 +22,7 @@
 !nvim/
 !nvim/*
 !nvim/**
+
+!wal/
+!wal/*
+!wal/**
