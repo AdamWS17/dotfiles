@@ -1,10 +1,14 @@
 {
         "layer": "top",
         "position": "top",
+        "margin-left": 10,
+        "margin-right": 10,
+        "margin-top": 7,
+        "margin-bottom": 0,
         "reload_style_on_change": true,
         "modules-left": ["custom/notification","clock","custom/pacman","tray"],
         "modules-center": ["hyprland/workspaces"],
-        "modules-right": ["group/expand","network","battery"],//"bluetooth"
+        "modules-right": ["group/expand","bluetooth","network","battery"],
 
 
         "hyprland/workspaces": {
@@ -18,17 +22,15 @@
                 "*": [ 1,2,3,4,5 ]
             }
         },
-/*
         "custom/notification": {
             "tooltip": false,
             "format": "",
             "on-click": "swaync-client -t -sw",
             "escape": true
         },
-*/
         "clock": {
-            "format": "{:%I:%M %p} ",
-            "interval": 1,
+            "format": "{:%I:%M:%S %p} ",
+            "interval": 1,   
             "tooltip-format": "<tt>{calendar}</tt>",
             "calendar": {
                 "format": {
@@ -60,7 +62,7 @@
             "tooltip-format-enumerate-connected": "{device_alias}\n{device_address}",
             "tooltip-format-enumerate-connected-battery": "{device_alias}\n{device_address}\n{device_battery_percentage}%",
             "on-click-right": "blueman-manager",
-        },
+        }, 
         "battery": {
             "interval":30,
             "states": {
@@ -81,7 +83,6 @@
             "󰁹"
             ],
         },
-/*
         "custom/pacman": {
             "format": "󰅢 {}",
             "interval": 30,   
@@ -91,7 +92,6 @@
             "signal": 8,
             "tooltip": false,
         },
-*/
         "custom/expand": {
             "format": "",
             "tooltip": false
